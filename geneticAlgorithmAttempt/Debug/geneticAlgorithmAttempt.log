@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\isaac\documents\visual studio 2015\projects\geneticalgorithmattempt\geneticalgorithmattempt\main.c(87): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  geneticAlgorithmAttempt.vcxproj -> C:\Users\Isaac\documents\visual studio 2015\Projects\geneticAlgorithmAttempt\Debug\geneticAlgorithmAttempt.exe
+  geneticAlgorithmAttempt.vcxproj -> C:\Users\Isaac\documents\visual studio 2015\Projects\geneticAlgorithmAttempt\Debug\geneticAlgorithmAttempt.pdb (Partial PDB)
